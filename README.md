@@ -1,5 +1,8 @@
 # Diversity & Inclusion in Open Source
 
+This thing right here is a fork of the Mozilla coc research, the official page can be found at: https://github.com/mozilla/inclusion or https://github.com/mozilla/diversity.
+(Note: Those two links are basically the same)
+________________________________________________________________________________________
 Welcome!  This repository contains a number of resources, templates, standards and other useful things for open (source, education, knowledge, science) projects.  
 
    * [Table of Contents](#diversity--inclusion-in-open-source)
