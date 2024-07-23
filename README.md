@@ -2,6 +2,8 @@
 
 This thing right here is a fork of the Mozilla coc research, the official page can be found at: https://github.com/mozilla/inclusion or https://github.com/mozilla/diversity.
 (Note: Those two links are basically the same)
+
+Check the resource out! I've checked it! It's useful. You can check this one because it's a fork but I recommend check the original one.
 ________________________________________________________________________________________
 Welcome!  This repository contains a number of resources, templates, standards and other useful things for open (source, education, knowledge, science) projects.  
 
