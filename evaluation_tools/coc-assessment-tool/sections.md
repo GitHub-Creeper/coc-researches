@@ -1,0 +1,22 @@
+## File Sections/made by Contributor Covenant
+- Our Pledge: Pledge for anti-harassment and anti-discrimination
+- Our Standards: Standards for community including ethical behavior and bad behavior.
+- Enforcement Responsibilities: What community leaders are responsible
+- Scope: Whatever place the Code of Conduct applies
+- Enforcement: Report and enforcement action.
+- Enforcement Guidelines: Community Impact Guidelines - Guidelines for community leaders to enforce the CoC (inspired by Mozilla)
+- Attribution: Attribute the Contributor Covenant's work.
+## Open-Source/CoC/Sections/made by Cat Creeper
+- Long CoC:
+  - Introduction: Explains Code of Conduct definitions and responsibilities.
+  - Our Pledge: Same as Contributor Covenant
+  - Our Standards: Community Standards with meaningful and extended guidelines. A little bit the same as the Contributor Covenant.
+  - Enforcement:
+    - Report Guidelines: The kind of problem people should report to maintainers.
+    - Our Responsibilities: Enforcement Responsibilities for maintainers and us.
+  - Scope: When and where the CoC applies.
+  - Attribution: Attribute my work and incorporate Contributor Covenant's work.
+- Short CoC:
+  - The same as Contributor Covenant. Check out the above!
+  - Standards adding more guidelines to ethical and unacceptable behaviors.
+  - Added Subject to Change above Attribution and below Enforcement Guidelines.
