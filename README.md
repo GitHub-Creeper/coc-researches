@@ -4,6 +4,8 @@ This thing right here is a fork of the Mozilla coc research, the official page c
 (Note: Those two links are basically the same)
 
 Check the resource out! I've checked it! It's useful. You can check this one because it's a fork but I recommend check the original one.
+
+Remember, this repo is licensed in Mozilla Public License, which is a share-alike license, but weak, so my CoC still applies in Creative Commons Attribution 4,0 International and my experiment files is still licensed in MIT license.
 ________________________________________________________________________________________
 Welcome!  This repository contains a number of resources, templates, standards and other useful things for open (source, education, knowledge, science) projects.  
 
