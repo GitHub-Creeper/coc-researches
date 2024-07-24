@@ -1,5 +1,5 @@
 # Community Code of Conduct
-This repository is governed by the Mozilla team, so follow their guidelines Check out [MOZILLA_GUIDELINES.md](MOZILLA_GUIDELINES.md). This fork right here is just a research and experiment with my Code of Conduct
+This repository is governed by the Mozilla team, so follow their guidelines. Check out [MOZILLA_GUIDELINES.md](MOZILLA_GUIDELINES.md). This fork right here is just a research and experiment with my Code of Conduct
 Anyway, this project adopted two additional Code of Conduct.
 ____________________________________________________________________________________________
 This project has adopted the Cat Creeper's Open-Source Code of Conduct.
