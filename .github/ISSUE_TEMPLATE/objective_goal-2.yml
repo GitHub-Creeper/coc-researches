@@ -1,6 +1,10 @@
 name: Objective Goal
-about: Detailed description on what should happen to consider this a success.
 
+description: |
+  Detailed description on what should happen to consider this a success.
+
+---
+# Optional: Metadata section for links, checklist, and related items
 links:
   - name: Links here
     url: /thelink
@@ -18,3 +22,5 @@ checklist:
 related:
   - name: Reference meta issues and past issues
     url: #
+
+# End of metadata section
