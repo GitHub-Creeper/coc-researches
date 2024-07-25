@@ -8,6 +8,7 @@ Check the resource out! I've checked it! It's useful. You can check this one bec
 Remember, this repo is licensed in Mozilla Public License, which is a share-alike license, but weak, so my CoC still applies in Creative Commons Attribution 4,0 International and my experiment files is still licensed in MIT license.
 
 Before check this resource out. I wanna thanks to Contributor Covenant from the organization of EthicalSource. They provided a lot of resources and even pre-make a Code of Conduct adapted by hundred thousand of open-source communities, projects, organization and even big and popular companies.
+Contributor Covenant provides additional resources too.
 - Contributor Covenant homepage: https://www.contributor-covenant.org
 - Contributor Covenant Code of Conduct (version 2.1, HTML):https://www.contributor-covenant.org/version/2/1/code_of_conduct
 - FAQs and Translations: https://www.contributor-covenant.org/faq and https://www.contributor-covenant.org/translations
