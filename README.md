@@ -12,6 +12,7 @@ Contributor Covenant provides additional resources too.
 - Contributor Covenant homepage: https://www.contributor-covenant.org
 - Contributor Covenant Code of Conduct (version 2.1, HTML):https://www.contributor-covenant.org/version/2/1/code_of_conduct
 - FAQs and Translations: https://www.contributor-covenant.org/faq and https://www.contributor-covenant.org/translations
+- GitHub: https://github.com/EthicalSource/contributor_covenant
 ________________________________________________________________________________________
 Welcome!  This repository contains a number of resources, templates, standards and other useful things for open (source, education, knowledge, science) projects.  
 
