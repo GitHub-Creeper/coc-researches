@@ -1,13 +1,13 @@
 # Diversity & Inclusion in Open Source
-
+## Disclaimer
 This thing right here is a fork of the Mozilla coc research, the official page can be found at: https://github.com/mozilla/inclusion or https://github.com/mozilla/diversity.
 (Note: Those two links are the same)
 
 Check the resource out! I've checked it! It's useful. You can check this one because it's a fork, but I think you should check the original one.
-
-Remember, this repo is licensed with a Mozilla Public License, a share-alike license, but weak, so my CoC still applies in Creative Commons Attribution 4,0 International and my experiment files are still licensed in MIT license.
-
-Before checking this resource out. I wanna thanks to Contributor Covenant from the organization of EthicalSource. They provided a lot of resources and even pre-make a Code of Conduct adopted by hundreds of thousands of open-source communities, projects, organizations, and even big and popular companies.
+## License
+Remember, this repo is licensed with a Mozilla Public License, a share-alike license, but weak, so my CoC still applies in Creative Commons Attribution 4.0 International and my experiment files are still licensed in MIT license.
+## Additional resources
+Before checking this resource out. I want to thank Contributor Covenant from the organization EthicalSource. They provided many resources and even pre-make a Code of Conduct adopted by hundreds of thousands of open-source communities, projects, organizations, and even big and popular companies.
 Contributor Covenant provides additional resources too.
 - Contributor Covenant homepage: https://www.contributor-covenant.org
 - Contributor Covenant Code of Conduct (version 2.1, HTML):https://www.contributor-covenant.org/version/2/1/code_of_conduct
