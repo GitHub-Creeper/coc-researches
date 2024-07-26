@@ -1,9 +1,11 @@
 # Diversity & Inclusion in Open Source
-## Disclaimer
+## Disclaimer and Copyright Notices
 This thing right here is a fork of the Mozilla coc research, the official page can be found at: https://github.com/mozilla/inclusion or https://github.com/mozilla/diversity.
 (Note: Those two links are the same)
 
 Check the resource out! I've checked it! It's useful. You can check this one because it's a fork, but I think you should check the original one.
+
+Copyright (C) Mozilla Foundation. *All rights reserved.*
 ## License
 Remember, this repo is licensed with a Mozilla Public License, a share-alike (copyleft) license, but weak, so my CoC still applies in Creative Commons Attribution 4.0 International and my experiment files are still licensed in MIT license.
 ## Additional resources
