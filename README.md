@@ -1,20 +1,20 @@
 # Diversity & Inclusion in Open Source
 
 This thing right here is a fork of the Mozilla coc research, the official page can be found at: https://github.com/mozilla/inclusion or https://github.com/mozilla/diversity.
-(Note: Those two links are basically the same)
+(Note: Those two links are the same)
 
-Check the resource out! I've checked it! It's useful. You can check this one because it's a fork but I recommend check the original one.
+Check the resource out! I've checked it! It's useful. You can check this one because it's a fork, but I think you should check the original one.
 
-Remember, this repo is licensed in Mozilla Public License, which is a share-alike license, but weak, so my CoC still applies in Creative Commons Attribution 4,0 International and my experiment files is still licensed in MIT license.
+Remember, this repo is licensed with a Mozilla Public License, a share-alike license, but weak, so my CoC still applies in Creative Commons Attribution 4,0 International and my experiment files are still licensed in MIT license.
 
-Before check this resource out. I wanna thanks to Contributor Covenant from the organization of EthicalSource. They provided a lot of resources and even pre-make a Code of Conduct adapted by hundred thousand of open-source communities, projects, organization and even big and popular companies.
+Before checking this resource out. I wanna thanks to Contributor Covenant from the organization of EthicalSource. They provided a lot of resources and even pre-make a Code of Conduct adopted by hundreds of thousands of open-source communities, projects, organizations, and even big and popular companies.
 Contributor Covenant provides additional resources too.
 - Contributor Covenant homepage: https://www.contributor-covenant.org
 - Contributor Covenant Code of Conduct (version 2.1, HTML):https://www.contributor-covenant.org/version/2/1/code_of_conduct
 - FAQs and Translations: https://www.contributor-covenant.org/faq and https://www.contributor-covenant.org/translations
 - GitHub: https://github.com/EthicalSource/contributor_covenant
 
-Additionally of Mozilla provided resources, this fork provides experiment files, pre-made code of conduct and faqs.
+Outside of Mozilla-provided resources, this fork provides experiment files, some pre-made code of conduct, and faqs.
 ________________________________________________________________________________________
 Welcome!  This repository contains a number of resources, templates, standards and other useful things for open (source, education, knowledge, science) projects.  
 
