@@ -15,8 +15,10 @@ Contributor Covenant provides additional resources too.
 - Contributor Covenant Code of Conduct (version 2.1, HTML):https://www.contributor-covenant.org/version/2/1/code_of_conduct
 - FAQs and Translations: https://www.contributor-covenant.org/faq and https://www.contributor-covenant.org/translations
 - GitHub: https://github.com/EthicalSource/contributor_covenant
+## Subject to Modifications
+I will modify the changes, commits, updates, and files I made. Mozilla will make their changes in the original repository and I will fetch them. 
 ## Conclusion
-This repo by Mozilla provides lots of resources useful for inclusion and diversity across all open-source. Contributor Covenant provides a lot of additional resources and even a pre-built, I made the modifications for this, you can check out my pre-built CoC, and my experiment process, and may find inspiration for you.
+This repo by Mozilla provides lots of resources useful for inclusion and diversity across all open-source. Contributor Covenant provides a lot of additional resources and even a pre-built, I made the modifications for this, you can check out my pre-built CoC, and my experiment process, and may find inspiration for you. Modifications will made depending on my, maintainers', and Mozilla's decisions.
 ________________________________________________________________________________________
 Welcome!  This repository contains a number of resources, templates, standards and other useful things for open (source, education, knowledge, science) projects.  
 
