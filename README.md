@@ -1,20 +1,22 @@
 # Diversity & Inclusion in Open Source
 ## Disclaimer and Copyright Notices
-This thing right here is a fork of the Mozilla coc research, the official page can be found at: https://github.com/mozilla/inclusion or https://github.com/mozilla/diversity.
+This thing right here is a fork of the Mozilla CoC research, the official page can be found at: https://github.com/mozilla/inclusion or https://github.com/mozilla/diversity.
 (Note: Those two links are the same)
 
-Check the resource out! I've checked it! It's useful. You can check this one because it's a fork, but I think you should check the original one.
+It's okay to check out the contents in this fork, but I recommend checking the original work. In my opinion, it seems very useful for me about CpC stuff.
 
 Copyright (C) Mozilla Foundation. *All rights reserved.*
 ## License
 Remember, this repo is licensed with a Mozilla Public License, a share-alike (copyleft) license, but weak, so my CoC still applies in Creative Commons Attribution 4.0 International and my experiment files are still licensed in MIT license.
-## Additional resources
+## Contributor Covenant
 Before checking this resource out. I want to thank Contributor Covenant from the organization EthicalSource. They provided many resources and even pre-make a Code of Conduct adopted by hundreds of thousands of open-source communities, projects, organizations, and even big and popular companies.
 Contributor Covenant provides additional resources too.
 - Contributor Covenant homepage: https://www.contributor-covenant.org
 - Contributor Covenant Code of Conduct (version 2.1, HTML):https://www.contributor-covenant.org/version/2/1/code_of_conduct
 - FAQs and Translations: https://www.contributor-covenant.org/faq and https://www.contributor-covenant.org/translations
 - GitHub: https://github.com/EthicalSource/contributor_covenant
+## Conclusion
+This repo by Mozilla provides lots of resources useful for inclusion and diversity across all open-source. Contributor Covenant provides a lot of additional resources and even a pre-built, I made the modifications for this, you can check out my pre-built CoC, and my experiment process, and may find inspiration for you.
 ________________________________________________________________________________________
 Welcome!  This repository contains a number of resources, templates, standards and other useful things for open (source, education, knowledge, science) projects.  
 
