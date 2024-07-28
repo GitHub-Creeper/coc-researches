@@ -3,7 +3,7 @@
 This thing right here is a fork of the Mozilla CoC research, the official page can be found at: https://github.com/mozilla/inclusion or https://github.com/mozilla/diversity.
 (Note: Those two links are the same)
 
-It's okay to check out the contents in this fork, but I recommend checking the original work. In my opinion, it seems very useful for me about CpC stuff.
+It's okay to check out the contents in this fork, but I recommend checking the original work. In my opinion, it seems very useful for me about CoC stuff.
 
 Copyright (C) Mozilla Foundation. *All rights reserved.*
 ## License
@@ -16,7 +16,7 @@ Contributor Covenant provides additional resources too.
 - FAQs and Translations: https://www.contributor-covenant.org/faq and https://www.contributor-covenant.org/translations
 - GitHub: https://github.com/EthicalSource/contributor_covenant
 ## Subject to Modifications
-I will modify the changes, commits, updates, and files I made. Mozilla will make their changes in the original repository and I will fetch them. 
+I can modify the changes, commits, updates, and files I make at any time. This repo only combines with other elements, without making any direct or indirect modifications to this repository, including this README. Mozilla will make their changes in the original repository and I will only fetch the official commit(s).
 ## Conclusion
 This repo by Mozilla provides lots of resources useful for inclusion and diversity across all open-source. Contributor Covenant provides a lot of additional resources and even a pre-built, I made the modifications for this, you can check out my pre-built CoC, and my experiment process, and may find inspiration for you. Modifications will made depending on my, maintainers', and Mozilla's decisions.
 ________________________________________________________________________________________
