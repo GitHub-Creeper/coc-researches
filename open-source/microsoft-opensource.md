@@ -2,7 +2,7 @@
 
 Have a question? [Read our FAQ](/codeofconduct/faq/) *or this GitHub []()*
 
-This code of conduct outlines expectations for participation in Microsoft-managed open source communities and steps for reporting unacceptable behavior. We are committed to providing a welcoming and inspiring community for all. People violating this code of conduct may be banned from the community.
+**This code of conduct outlines expectations for participation in Microsoft-managed open source communities and steps for reporting unacceptable behavior. We are committed to providing a welcoming and inspiring community for all. People violating this code of conduct may be banned from the community.**
 
 ## Our Pledge
 
@@ -53,6 +53,6 @@ This Code of Conduct is adapted from the [Contributor Covenant](https://www.cont
 
 Community Impact Guidelines were inspired by [Mozilla's code of conduct enforcement ladder](https://github.com/mozilla/diversity).
 
-Expanding scope to include external impact on community health was inspired by [Facebook's Open Source Code of Conduct](https://opensource.facebook.com/code-of-conduct) and [Mozilla's Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/).
+Expanding scope to include external impact on community health inspired by [Facebook's Open Source Code of Conduct](https://opensource.facebook.com/code-of-conduct) and [Mozilla's Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/).
 
 For answers to common questions about this code of conduct, see the FAQ at [https://www.contributor-covenant.org/faq](https://www.contributor-covenant.org/faq). Translations are available at [https://www.contributor-covenant.org/translations](https://www.contributor-covenant.org/translations).
