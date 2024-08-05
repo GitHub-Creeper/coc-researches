@@ -1,6 +1,6 @@
 # Code of Conduct
 
-Have a question? [Read our FAQ](/codeofconduct/faq/) *or this GitHub []()*
+Have a question? [Read our FAQ](/codeofconduct/faq/) *or this GitHub [FAQ](microsoft-coc-faq.md)*
 
 **This code of conduct outlines expectations for participation in Microsoft-managed open source communities and steps for reporting unacceptable behavior. We are committed to providing a welcoming and inspiring community for all. People violating this code of conduct may be banned from the community.**
 
