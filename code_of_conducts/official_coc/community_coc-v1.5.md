@@ -20,8 +20,7 @@ The following guidelines are not strict or fast rules, it’s a foundation to gu
 
 ### *Best practices to maintain a positive community*
 
-Participating in open-source communities is a highly collaborative experience. But I hope people will treat others will professionalism and being respectful of different perspectives. So we really encourages to follow these guidelines
-to make people feel valued.
+Participating in open-source communities is a highly collaborative experience. But I hope people will treat others will professionalism and being respectful of different perspectives. So we really encourage you to follow these guidelines to make people feel valued.
 
 * **Be welcoming:** Keep your friendliness and make new users join this community feel welcome. So the community feels safe and welcome to contribute.
 * **Open your mind:** Open your feelings, and mindfully listen to others’ opinions no matter how much experience they have. They need a place under the sunlight just like yours. Don’t be selfish and think only about you. Decide what is best for the community rather than just your own, ensures everyone benefits across the community spaces.
@@ -33,8 +32,7 @@ to make people feel valued.
 
 ### *Bad and unacceptable behavior that affects people*
 
-This list shows down bad behaviors you should avoid and cause disruption, annoyances or even break people's mental health. So I hope mentioning those helps you avoid those unacceptable terms as well as when you can report to us
-and that person or group can get their well-deserved punishment.
+This list shows down bad behaviors you should avoid and cause disruption, annoyances or even break people's mental health. So I hope mentioning those helps you avoid those unacceptable terms as well as when you can report to us and that person or group can get their well-deserved punishment.
 
 * **Discrimination:** Any form of discrimination based on any protected classes and characteristics, including those mentioned in Our Pledge section. Treat people fair, they are like you too.
 * **Inappropriate:** The use of sexualized language or imagery, and sexual attention or advances of any kind. This is utterly disgusting.
@@ -45,16 +43,15 @@ and that person or group can get their well-deserved punishment.
 * **Privacy Risk:** Reveal anyone’s sensitive information such as email or home address, including yours online or someone you don’t trust could create huge privacy risks.
 * **Encourage Bad Behavior:** Encouraging or provoking unacceptable behavior will be treated as if you committed the behavior yourself, resulting in identical consequences.
 * **Revenge:** Payback to anyone who reports you, your friend, or your party is unacceptable. When you make mistakes, it's good to acknowledge them. We will not tolerate those who don't accept their mistakes, instead harm others.
-* **Report Falsely:** Although no revenge to someone report you in good faith, don't try to report innocent people for the intended to harm people or destroy people's life and make people get banned falsely. If you encounter anyone do that with you, use the "A taste of your own medicine" method, report them back.
 * **Other conducts:** Other conduct which could reasonably be considered inappropriate in a professional setting. This place is experienced and should be treated like such.
 
 ## Enforcement
 
 ### *What can members and participants do?*
 
-**Report the problem when you see it.** Project maintainers and moderators are responsible for moderating our community. However, to moderate easily, we rely on reports from our users. Any form of harassment, abuse, or any other kind of bad behavior may be reported at [INSERT CONTACT METHOD]. Additionally, reporting it to GitHub is a good idea. So that when we are busy, GitHub may do the work.
+ - **Report the problem when you see it.** Project maintainers and moderators are responsible for moderating our community. However, to moderate easily, we rely on reports from our users. Any form of harassment, abuse, or any other kind of bad behavior may be reported at [INSERT CONTACT METHOD]. But remember not to report innocent users and get them banned unjustly, especially for harmful purposes.
 
-All complaints will be reviewed and investigated promptly and fairly, and we will provide the necessary information. Please don’t waste your time or energy to tell them to stop their bad behavior. Community leaders must respect the privacy and security of anyone reporting an incident.
+All complaints will be handled and investigated promptly, carefully, and fairly. Please don’t waste your time or energy to tell them to stop their bad behavior. Community leaders must respect the privacy and security of anyone reporting an incident.
 
 Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other project leadership members.
 
@@ -111,13 +108,13 @@ community.
 
 This Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces. Examples of representing our community include using an official email address, posting via an official social media account, or acting as an appointed representative at an online or offline event. Representation of a project may be further defined and clarified by project maintainers.
 
+This Code of Conduct also applies when someone takes actions that affect the community's status and health negatively.
+
 ## Attribution
 
-This Code of Conduct is adapted by Cat Creeper and incorporates elements from the [Contributor Covenant](https://www.contributor-covenant.org) , version 1.4 and 2.1, available at https://www.contributor-covenant.org/version/1/4/code-of-conduct and https://www.contributor-covenant.org/version/2/1/code_of_conduct. 
+This Code of Conduct is adapted by Cat Creeper and incorporates elements from the [Contributor Covenant](https://www.contributor-covenant.org), version 1.4 and 2.1, available at https://www.contributor-covenant.org/version/1/4/code-of-conduct and https://www.contributor-covenant.org/version/2/1/code_of_conduct. 
 
-Our Standards format was inspired by [GitHub Community Code of Conduct](https://docs.github.com/en/site-policy/github-terms/github-community-code-of-conduct).
-
-Expanding Our Pledge Section inspired by the [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/).
+Our Standards format was inspired by [GitHub Community Code of Conduct](https://docs.github.com/en/site-policy/github-terms/github-community-code-of-conduct). Expanding Our Pledge Section inspired by the [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/). 
 
 This document is licensed under the Creative Commons Attribution 4.0 International (CC-BY-4.0) public license. More about the license here:
 - Deed: [Creative Commons Deed](https://creativecommons.org/licenses/by/4.0/)
