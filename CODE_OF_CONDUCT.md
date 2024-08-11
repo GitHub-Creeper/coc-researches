@@ -4,7 +4,7 @@ Anyway, this project adopted two additional Code of Conduct.
 ____________________________________________________________________________________________
 This project has adopted the Cat Creeper's Open-Source Code of Conduct.
 
-- Extended and Descriptive Code of Conduct: [community_coc.md](code_of_conducts/official_coc/community_coc.md)
-- Short and StraightForward Code of Conduct: [short_community_coc.md](code_of_conducts/short_coc/short_community_coc.md)
+- Extended and Descriptive Code of Conduct: [community_coc.md](code_of_conducts/official_coc) and check out the latest version.
+- Short and StraightForward Code of Conduct: [short_community_coc.md](code_of_conducts/short_coc) and check out the latest version.
 
-Note: These two code of conduct is the same. But I have two versions for you to read. You can read whatever you like. And the short code of conduct is the adapted Contributor Covenant.
+Note: These two Code of Conducts are the same. But I have two versions for you to read. You can read whatever you like. And the short Code of Conduct is the adapted Contributor Covenant.
