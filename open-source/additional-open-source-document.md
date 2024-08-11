@@ -15,6 +15,8 @@ https://geekfeminism.fandom.com/wiki/Conference_anti-harassment/Policy_resources
 
 https://www.yesandyesyes.com/code-of-conduct
 
+https://publichealthpledge.com/
+
 https://www.google.com/events/policy/anti-harassmentpolicy.html
 
 https://opensource.google/conduct/
