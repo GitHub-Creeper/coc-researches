@@ -34,3 +34,23 @@ https://opensource.fb.com/code-of-conduct/
 https://opensource.creativecommons.org/community/code-of-conduct/
 
 https://docs.github.com/en/site-policy/github-terms/github-community-code-of-conduct
+
+https://www.mozilla.org/en-US/about/governance/policies/participation/
+
+https://make.wordpress.org/handbook/community-code-of-conduct/
+
+## Adaptations of the Contributor Covenant
+
+https://www.contributor-covenant.org/adopters/
+
+https://github.com/EthicalSource/contributor_covenant/blob/release/static/adopters.csv
+
+https://github.com/EthicalSource/contributor_covenant/blob/release/static/featured-adopters.csv
+
+https://github.com/kubernetes/community/blob/master/code-of-conduct.md
+
+https://github.com/cncf/foundation/blob/main/code-of-conduct.md
+
+https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=8a104f8b5867c682d994ffa7a74093c54469c11f
+
+https://dotnetfoundation.org/about/code-of-conduct
