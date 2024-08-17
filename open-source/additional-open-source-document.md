@@ -5,8 +5,6 @@ https://indieweb.org/code-of-conduct
 
 https://indieweb.org/code-of-conduct-why
 
-https://indieweb.org/code-of-conduct-why
-
 https://indieweb.org/code-of-conduct-examples
 
 https://geekfeminism.fandom.com/wiki/Conference_anti-harassment/Policy
