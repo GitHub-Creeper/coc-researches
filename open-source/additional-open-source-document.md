@@ -21,6 +21,12 @@ https://opensource.google/conduct/
 
 https://www.djangoproject.com/conduct/
 
+https://docs.github.com/en/site-policy/github-terms/github-event-code-of-conduct
+
+https://opensource.guide/
+
+https://opensource.guide/code-of-conduct/
+
 ## Links to Open-Source Code of Conduct from companies and organizations.
 
 https://www.contributor-covenant.org/
