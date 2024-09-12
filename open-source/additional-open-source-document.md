@@ -39,6 +39,8 @@ https://opensource.microsoft.com/codeofconduct/
 
 https://opensource.fb.com/code-of-conduct/
 
+https://www.apache.org/foundation/policies/conduct.html
+
 https://opensource.creativecommons.org/community/code-of-conduct/
 
 https://docs.github.com/en/site-policy/github-terms/github-community-code-of-conduct
