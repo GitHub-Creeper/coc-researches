@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This code of conduct applies to all spaces the Apache Software Foundation manages, including IRC, public and private mailing lists, issue trackers, wikis, blogs, Twitter, and any other communication channels our communities use. A code of conduct which is specific to in-person events (ie., conferences) is in the ASF [anti-harassment policy](anti-harassment.html).
+This code of conduct applies to all spaces the Apache Software Foundation manages, including IRC, public and private mailing lists, issue trackers, wikis, blogs, Twitter, and any other communication channels our communities use. A code of conduct which is specific to in-person events (ie., conferences) is in the ASF [anti-harassment policy](https://www.apache.org/foundation/policies/anti-harassment.html).
 
 We expect everyone who participates in the Apache community formally or informally, or claims any affiliation with the Foundation, in any Foundation-related activities and especially when representing the ASF in any role to honor this code of conduct.
 
